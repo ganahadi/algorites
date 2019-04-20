@@ -1,2 +1,3 @@
 Algorites
 - Dapat duit
+- Buat banyak source
